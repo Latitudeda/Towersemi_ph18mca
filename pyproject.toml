@@ -3,6 +3,6 @@ requires = []
 build-backend = "flit_core.buildapi"
 
 [project]
-name = "Tower Semiconductor PH18MCA pdk documentation"
+name = "Tower Semiconductor PH18MCA PDK Documentation"
 authors = [{ name = "kathylin", email = "kathy_lin@enlight-tec.com" }]
 dynamic = ["version", "description"]

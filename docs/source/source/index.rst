@@ -1,5 +1,5 @@
-Tower Semiconductor PH18MCA documentation
-============================================
+Tower Semiconductor PH18MCA Documentation
+=============================================
 
 .. toctree::
    :hidden:
