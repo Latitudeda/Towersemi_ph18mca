@@ -1,11 +1,12 @@
 Component library
-============================
+========================
 
 .. toctree::
    :hidden:
 
    bend
    bondpad
+   cross
    dc
    gc
    mmi
@@ -14,6 +15,7 @@ Component library
    taper
    transition
    waveguide
+   yjunction
 
 
 

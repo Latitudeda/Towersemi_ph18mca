@@ -1,3 +1,3 @@
 metrics.py
 ==============
-To define the metrics used in towersemi_ph18mca pdk.
+To define the metrics used in towersemi_ph18mca PDK.
